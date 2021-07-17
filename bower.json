@@ -14,13 +14,13 @@
         "output"
     ],
     "dependencies": {
-        "purescript-aff": "^v5.1.2",
-        "purescript-aff-promise": "^v2.1.0",
-        "purescript-effect": "^v2.0.1",
-        "purescript-either": "^v4.1.1",
-        "purescript-functions": "^v4.0.0",
-        "purescript-prelude": "^v4.1.1",
-        "purescript-web-file": "^v2.3.0",
-        "purescript-web-html": "^v2.3.0"
+        "purescript-aff": "^v6.0.0",
+        "purescript-aff-promise": "^v3.0.0",
+        "purescript-effect": "^v3.0.0",
+        "purescript-either": "^v5.0.0",
+        "purescript-functions": "^v5.0.0",
+        "purescript-prelude": "^v5.0.1",
+        "purescript-web-file": "^v3.0.0",
+        "purescript-web-html": "^v3.1.0"
     }
 }
